@@ -10,7 +10,7 @@ class _BotCommands:
         self.StatusCommand = 'statusfl'
         self.AuthorizedUsersCommand = 'usersfl'
         self.AuthorizeCommand = 'authorizefl'
-        self.UnAuthorizeCommand = 'unauthorizefl
+        self.UnAuthorizeCommand = 'unauthorizefl'
         self.AddSudoCommand = 'addsudofl'
         self.RmSudoCommand = 'rmsudofl'
         self.PingCommand = 'pingfl'
